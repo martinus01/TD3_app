@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
             showList(pokemonList);
         } else {
             makeApiCall();
-
+            //TODO animation
         }
 
     }
