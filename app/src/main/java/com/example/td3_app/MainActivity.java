@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
             makeApiCall();
             //TODO animation
         }
-
+        //TODO developp
     }
 
     private List<Pokemon> getDataFromCache() {
